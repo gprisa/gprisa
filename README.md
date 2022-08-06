@@ -27,6 +27,10 @@ The research group on Intelligent Networks and Autonomous Systems (RINAS) focuse
 
  - [Projeto1](link do projeto.)
 
+## Formalization
+
+ - [Group formalization process](https://github.com/gprisa/formalization_process)
+ 
 <!--
 **gprisa/gprisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
