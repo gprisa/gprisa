@@ -33,7 +33,7 @@ The research group on Intelligent Networks and Autonomous Systems (RINAS) focuse
  
 # Publications
 
-    - Douglas Chagas da Silva, Marco Antonio Firmino de Sousa, Graça Bressan and Regina Melo Silveira. 2022. 5G Network Slice Selector in IoT Services Scenarios with QoS Requirements Guarantee. In 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE Press, 90–95. https://doi.org/10.1109/WCNC51071.2022.9771744
+ - Douglas Chagas da Silva, Marco Antonio Firmino de Sousa, Graça Bressan and Regina Melo Silveira. 2022. 5G Network Slice Selector in IoT Services Scenarios with QoS Requirements Guarantee. In 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE Press, 90–95. https://doi.org/10.1109/WCNC51071.2022.9771744
 
 <!--
 **gprisa/gprisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
