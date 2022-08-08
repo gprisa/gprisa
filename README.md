@@ -38,7 +38,7 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
 
  - Douglas Chagas da Silva, Marco Antonio Firmino de Sousa, Graça Bressan and Regina Melo Silveira. 2022. 5G Network Slice Selector in IoT Services Scenarios with QoS Requirements Guarantee. In 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE Press, 90–95. <a href="https://doi.org/10.1109/WCNC51071.2022.9771744" target="_blank">https://doi.org/10.1109/WCNC51071.2022.9771744</a>
 
- - José Olimpio Rodrigues Batista, Douglas Chagas da Silva, Moacyr Martucci, Regina Melo Silveira and Carlos Eduardo Cugnasca. 2021. A Multi-Provider End-to-End Dynamic Orchestration Architecture Approach for 5G and Future Communication Systems. In Applied Sciences, Volume 11, 11914. 2021. ISSN 2076-3417. [ - José Olimpio Rodrigues Batista, Douglas Chagas da Silva, Moacyr Martucci, Regina Melo Silveira and Carlos Eduardo Cugnasca. 2021. A Multi-Provider End-to-End Dynamic Orchestration Architecture Approach for 5G and Future Communication Systems. In Applied Sciences, Volume 11, 11914. 2021. ISSN 2076-3417. <a href="https://doi.org/10.3390/app112411914" target="_blank">https://doi.org/10.3390/app112411914</a>
+ - José Olimpio Rodrigues Batista, Douglas Chagas da Silva, Moacyr Martucci, Regina Melo Silveira and Carlos Eduardo Cugnasca. 2021. A Multi-Provider End-to-End Dynamic Orchestration Architecture Approach for 5G and Future Communication Systems. In Applied Sciences, Volume 11, 11914. 2021. ISSN 2076-3417. <a href="https://doi.org/10.3390/app112411914" target="_blank">https://doi.org/10.3390/app112411914</a>
 
 
 <!--
