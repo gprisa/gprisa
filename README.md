@@ -1,6 +1,6 @@
-# Grupo de Pesquisa em Redes Inteligentes e Sistemas Autônomos 📶
+# Grupo de Pesquisa em Redes Inteligentes e Sistemas Autônomos - GPRISA 📶
 
-The research group on Intelligent Networks and Autonomous Systems (RINAS) focuses on the development of new methods and tools for the analysis, design and optimization of communication networks and systems. The group has expertise in several areas, including:
+The research group on Intelligent Networks and Autonomous Systems focuses on the development of new methods and tools for the analysis, design and optimization of communication networks and systems. The group has expertise in several areas, including:
 
 - Multi-agent Systems;
 - Network Automations;
@@ -29,7 +29,7 @@ The research group on Intelligent Networks and Autonomous Systems (RINAS) focuse
 
  - [NSSF DAF](https://github.com/gprisa/nssfdaf)
  - [NWDAF](https://github.com/gprisa/nwdaf)
- 
+
 ## Formalization
 
  - [Group formalization process](https://github.com/gprisa/formalization_process)
