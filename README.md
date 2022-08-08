@@ -9,11 +9,11 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
 - Multiobjective Optimization;
 - Network Simulation and Modeling;
 - Automating Data Transformations;
-- Future Vertical Industry Applications.
+- Future Vertical Industry Applications;
 - Intelligent Networks and Network Coding;
 - Machine Learning and Intelligence Systems;
 - Artificial Intelligence in Zero-Touch Provisioning;
-- Resource Orchestration in 5G and Future Communications Networks;
+- Resource Orchestration in 5G and Future Communications Networks.
 
 ## This research group is composed of the following members:
 
@@ -38,7 +38,8 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
 
  - Douglas Chagas da Silva, Marco Antonio Firmino de Sousa, Graça Bressan and Regina Melo Silveira. 2022. 5G Network Slice Selector in IoT Services Scenarios with QoS Requirements Guarantee. In 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE Press, 90–95. https://doi.org/10.1109/WCNC51071.2022.9771744
 
- - Batista Jr, Jose & Silva, Douglas & Martucci, Moacyr & Silveira, Regina & Cugnasca, Carlos. (2021). A Multi-Provider End-to-End Dynamic Orchestration Architecture Approach for 5G and Future Communication Systems. Applied Sciences. 11. 11914. 10.3390/app112411914. 
+ - José Olimpio Rodrigues Batista, Douglas Chagas da Silva, Moacyr Martucci, Regina Melo Silveira and Carlos Eduardo Cugnasca. 2021. A Multi-Provider End-to-End Dynamic Orchestration Architecture Approach for 5G and Future Communication Systems. In Applied Sciences, Volume 11, 11914. 2021. ISSN 2076-3417. https://doi.org/10.3390/app112411914  
+
 
 <!--
 **gprisa/gprisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
