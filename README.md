@@ -3,13 +3,10 @@
 The research group on Intelligent Networks and Autonomous Systems focuses on the development of new methods and tools for the analysis, design and optimization of communication networks and systems. The group has expertise in several areas, including:
 
 - Multi-agent Systems;
-- Network Automations;
 - Cloud and Edge Computing;
 - Network Slicing Management;
-- Zero-touch network control;
 - Multiobjective Optimization;
 - Network Simulation and Modeling;
-- Automating Data Transformations;
 - Future Vertical Industry Applications;
 - Intelligent Networks and Network Coding;
 - Machine Learning and Intelligence Systems;
