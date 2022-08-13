@@ -34,7 +34,7 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
  
 # Publications
 
- - Douglas Chagas Da Silva, José Olimpio Rodrigues Batista Jr., Marco Antonio Firmino Sousa, Gustavo Marques Mostaço, Claudio de Castro Monteiro, Graça Bressan, Carlos Eduardo Cugnasca, Regina Melo Silveira. A Novel Approach to Multi-Provider Network Slice Selector for 5G and Future Communication Systems. Sensors 2022, 22, 6066. [https://doi.org/10.3390/s22166066] (https://doi.org/10.3390/s22166066)
+ - Douglas Chagas Da Silva, José Olimpio Rodrigues Batista Jr., Marco Antonio Firmino Sousa, Gustavo Marques Mostaço, Claudio de Castro Monteiro, Graça Bressan, Carlos Eduardo Cugnasca, Regina Melo Silveira. A Novel Approach to Multi-Provider Network Slice Selector for 5G and Future Communication Systems. Sensors 2022, 22, 6066. [https://doi.org/10.3390/s22166066](https://doi.org/10.3390/s22166066)
 
  - Douglas Chagas da Silva, Marco Antonio Firmino de Sousa, Graça Bressan and Regina Melo Silveira. 2022. 5G Network Slice Selector in IoT Services Scenarios with QoS Requirements Guarantee. In 2022 IEEE Wireless Communications and Networking Conference (WCNC). IEEE Press, 90–95. [https://doi.org/10.1109/WCNC51071.2022.9771744](https://doi.org/10.1109/WCNC51071.2022.9771744) 
  
