@@ -20,7 +20,6 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
  - Regina Silveira, pesquisadora sênior;
  - Lucas Batista, pesquisador sênior;
  - Jean Nunes, pesquisador;
- - Mailson Oliveira, pesquisador;
  - Marco Antonio, pesquisador.
 
 ## Currently has the following projects in progress:
