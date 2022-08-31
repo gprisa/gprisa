@@ -15,10 +15,11 @@ The research group on Intelligent Networks and Autonomous Systems focuses on the
 
 ## This research group is composed of the following members:
 
- - Douglas Chagas, líder do grupo;
- - Graça Bressan, líder do grupo;
+ - Joelson de Araújo Delfino, líder do grupo
+ - Graça Bressan, pesquisadora sênior;
  - Regina Silveira, pesquisadora sênior;
  - Lucas Batista, pesquisador sênior;
+ - Douglas Chagas, pesquisador;
  - Jean Nunes, pesquisador;
  - Marco Antonio, pesquisador.
 
