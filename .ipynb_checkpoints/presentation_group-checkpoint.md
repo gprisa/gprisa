@@ -4,7 +4,7 @@
 ---
 title: "Proposta Grupo de Pesquisa - Institucional"
 subtitle: "Grupo de Pesquisa em Redes Inteligentes e Sistemas Autônomos - GPRISA"
-author: "Douglas e Marco Antonio"
+author: "Jean Nunes"
 institute: "Universidade Estadual do Tocantins - UNITINS"
 date: 11/10/2022
 theme: "Copenhagen"
